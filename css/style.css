@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    overflow: hidden;
+}
+
+.logo{
+    width: 20%;
+    height: 100px;
+    background-color: bisque;
+    float: left;
+    text-align: center;
+}
+
+.menu{
+    width: 80%;
+    height: 100px;
+    background-color: darkkhaki;
+    float: left;
+    text-align: center;
+}
+
+.bar{
+    height: 70px;
+    background-color: orange;
+    text-align: center;
+}
+
+.content{
+    overflow: hidden;
+}
+
+.left{
+    width: 20%;
+    height: 300px;
+    background-color: rosybrown;
+    float: left;
+    text-align: center;
+}
+
+.center1{
+    width: 20%;
+    height: 300px;
+    background-color: crimson;
+    float: left;
+    text-align: center;
+}
+
+.center2{
+    width: 20%;
+    height: 300px;
+    background-color: turquoise;
+    float: left;
+    text-align: center;
+}
+
+.center3{
+    width: 20%;
+    height: 300px;
+    background-color: greenyellow;
+    float: left;
+    text-align: center;
+}
+
+.right{
+    width: 20%;
+    height: 300px;
+    background-color: lightskyblue;
+    float: left;
+    text-align: center;
+}
+
+.ads{
+    overflow: hidden;
+
+}
+
+.ads_left{
+    width: 25%;
+    height: 250px;
+    background-color: lightgrey;
+    float: left;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+.ads_center{
+    width: 50%;
+    height: 250px;
+    background-color: darkorange;
+    float: left;
+    text-align: center;
+}
+
+.ads_right{
+    width: 25%;
+    height: 250px;
+    background-color: lightgrey;
+    overflow: hidden;
+    float: left;
+    text-align: center;
+}
+
+.adsleft_top{
+    width: 100%;
+    height: 50%;
+    background-color: darkgrey;
+    float: left;
+    text-align: center;
+}
+
+.adsleft_bottom{
+    width: 100%;
+    height: 50%;
+    background-color: darkblue;
+    float: left;
+    text-align: center;
+}
+
+.adsright_top{
+    width: 100%;
+    height: 50%;
+    background-color: darkgrey;
+    float: left;
+    text-align: center;
+}
+
+.adsright_bottom{
+    width: 100%;
+    height: 50%;
+    background-color: darkblue;
+    float: left;
+    text-align: center;
+}
+
+
+
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: darkturquoise;
+    float: left;
+    text-align: center;
+}
